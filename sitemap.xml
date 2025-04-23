@@ -27,12 +27,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/painting-kit/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/painting-kit/
+            http://localhost:8000/products/baking-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/rock-painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/colouring-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/egg-painting-kit/
         </loc>
     </url>
     <url>

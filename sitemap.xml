@@ -17,12 +17,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/easter-egg-kit/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/colouring-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>

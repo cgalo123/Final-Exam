@@ -2,12 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/painting-with-your-kids/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/painting-with-your-kids/
+            http://localhost:8000/baking/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/rock-painting/
         </loc>
     </url>
     <url>
@@ -23,6 +28,11 @@
     <url>
         <loc>
             http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
         </loc>
     </url>
     <url>

@@ -7,12 +7,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/painting-with-your-kids/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/painting-kit/
         </loc>
     </url>
     <url>
